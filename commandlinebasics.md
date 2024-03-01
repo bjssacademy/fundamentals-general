@@ -1,7 +1,6 @@
 # You’re more used to the thing on the left…
 
-![Alt](/img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V20.png)
-
+![Alt text](<img/Command Line and Batch File Basics V20.png>)
 
 On the left we have Windows explorer, which is a Graphical User Interface. On the right we have a command prompt, or DOS Terminal, which is a Command Line Interface. Or CLI. The terms get used a lot and mean the same thing.
 
@@ -77,12 +76,12 @@ Let's get into some practicals.
 
 Let’s open a command prompt! Follow the steps above to display the black box we saw on the last screen.
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V21.png)
+![Alt text](<img/Command Line and Batch File Basics V21.png>)
 
 
 # Where are we?
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V22.png)
+![Alt text](<img/Command Line and Batch File Basics V22.png>)
 
 By default, the command prompt open at a specified location, normally *c:\users\<username>*
 
