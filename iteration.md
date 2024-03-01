@@ -15,7 +15,7 @@ Imagine a box full of books.
 
 The box is the *collection*, whilst each book is an *item*. Remember variables and buckets? And buckets could hold just one thing? Well here we use a box, and the box can contain more than one thing.
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V218.png)
+![alt](<img/Command Line and Batch File Basics V218.png>)
 
 * A collection is the fancy name for *one or more* things.
 * A collection contains items.
@@ -106,10 +106,6 @@ for each book in books
 Now it doesn't matter *how many* books we have, each one will get printed and read.
 
 We can even add or remove books!
-
----
-
-
 
 ---
 
