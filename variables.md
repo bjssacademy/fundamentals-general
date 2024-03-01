@@ -5,16 +5,15 @@ Variables allow you to store information that can be accessed over and over aga
 Naming a variable is called *declaring a variable*.
 
 In English for example, we might say
-
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V28.png)
+![Alt text](<img/Command Line and Batch File Basics V28.png>)
 
 Here the equals sign `=` is the *assignment* operator. It lets us know that we have assigned the string `Amanda` to the variable, `name`.
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V29.png)
+![Alt text](<img/Command Line and Batch File Basics V29.png>)
 
 ### Variables are like buckets
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V210.png)
+![Alt text](<img/Command Line and Batch File Basics V210.png>)
 
 The bucket now contains sand.
 
@@ -24,7 +23,7 @@ When I ask what is in the bucket, I will be told that it is sand.
 
 If I add water to the bucket, *it first empties the bucket automagically*.
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V211.png)
+![Alt text](img/Command Line and Batch File Basics V211.png)
 
 Variables are *mutable*. Which is a posh way of saying "they can be changed".
 
