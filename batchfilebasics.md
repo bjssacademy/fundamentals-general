@@ -18,13 +18,13 @@ Create a file in it called `hello.bat`
 
 Open the file in VS Code for editing
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V23.png)
+ ![alt](<img/Command Line and Batch File Basics V23.png>)
 
 ## My First Batch File
 
 Now we have our file open in VS Code, let's change what's in it so it does something:
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V24.png)
+ ![alt](<img/Command Line and Batch File Basics V24.png>)
 
 `@echo OFF` is used to not display `echo` in the output. 
 
@@ -42,7 +42,7 @@ That’s because by default these batch files are self-exiting. To make it so we
 
 ## Pause
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V25.png)
+ ![alt](<img/Command Line and Batch File Basics V25.png>)
 
 Update your batch file to add Pause on line 3.
 
@@ -50,7 +50,7 @@ Double click again, what do you see now?
 
 ---
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V26.png)
+ ![alt](<img/Command Line and Batch File Basics V26.png>)
 
 
 Hopefully you see something like this! Press any key and the window will close.
@@ -61,7 +61,7 @@ Hopefully you see something like this! Press any key and the window will close.
 
 Read this, tell me what it’s going to do?
 
-![Alt text](img/Picture1.png)
+![Alt text](img/Picture1.png>)
 
 We can use all commands available to the command line in batch files to automate boring, repetitive tasks!
 
@@ -74,7 +74,7 @@ There’s a problem with the script….can you tell what it is?
 
 ## Accepting user input
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V27.png)
+ ![alt](<img/Command Line and Batch File Basics V27.png>)
 
 To accept user input, we use the `set /p` command. `/p` is shorthand saying “*take the input from the command line prompt*”
 
@@ -86,7 +86,7 @@ If you are not sure what a variable is, you can find read the [variables section
 
 Okay, so we can assign to a variable, but what's the use? Let's assume we want to create a new folder based on what the user wants.
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V212.png)
+ ![alt](<img/Command Line and Batch File Basics V212.png>)
 
 The `%` symbol is how we access the variable. So whilst we have a variable called `foldername`, when we want to use it we have to wrap it in `%`:
 
@@ -96,7 +96,7 @@ md %foldername%
 
 ## New batch file
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V213.png)
+ ![alt](<img/Command Line and Batch File Basics V213.png>)
 
 
 Create a new batch file in the batch folder called `fldr.bat` and add the above code.
@@ -144,7 +144,7 @@ The following diagram shows the flow of the ‘if’ statement.
 
 You can, of course, use conditional logic on user input: 
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V214.png)
+ ![alt](<img/Command Line and Batch File Basics V214.png>)
 
 Question: What input would we need to enter to execute both parts of the logic?
 
@@ -164,11 +164,11 @@ https://www.tutorialspoint.com/batch_script/batch_script_decision_making.htm
 
 # Workshop
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V216.png)
+ ![alt](<img/Command Line and Batch File Basics V216.png>)
 
 ## Task Recreate the logic
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V217.png)
+ ![alt](<img/Command Line and Batch File Basics V217.png>)
 
 https://www.tutorialspoint.com/batch_script/batch_script_if_else_statement.htm
 
@@ -178,7 +178,7 @@ https://www.tutorialspoint.com/batch_script/batch_script_if_else_statement.htm
 
 Not sure what loops are, or iterating over a collection? Check out [iteration chapter](/iteration.md).
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V219.png)
+ ![alt](<img/Command Line and Batch File Basics V219.png>)
 
 Here's the code for our loop:
 

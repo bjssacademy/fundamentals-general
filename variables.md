@@ -4,7 +4,7 @@ Variables allow you to store information that can be accessed over and over aga
 
 Naming a variable is called *declaring a variable*.
 
-In English for example, we might say
+In English for example, we might say:
 
 ![Alt text](<img/Command Line and Batch File Basics V28.png>)
 
