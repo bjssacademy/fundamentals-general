@@ -1,6 +1,6 @@
 # You’re more used to the thing on the left…
 
-![](img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V20.png)
+![Alt](/img%5CCommand%20Line%20and%20Batch%20File%20Basics%20V20.png)
 
 
 On the left we have Windows explorer, which is a Graphical User Interface. On the right we have a command prompt, or DOS Terminal, which is a Command Line Interface. Or CLI. The terms get used a lot and mean the same thing.
