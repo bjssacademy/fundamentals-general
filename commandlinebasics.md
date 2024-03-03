@@ -89,13 +89,15 @@ By default, the command prompt open at a specified location, normally *c:\users\
 >
 > When you are "in" a folder or directory on the command line, what you can see is limited to ONLY what is contained in that folder - the files and folders underneath it.
 
-We can check this by opening up Explorer, but they show different things which seems odd. This is because Windows Explorer shows files *and* folders by default, so you can click on them, whilst the command prompt does not. It relies on you typing in certain commands.
+We can check this by opening up Explorer at the same location, but they show different things which seems odd. This is because Windows Explorer shows files *and* folders by default, so you can click on them, whilst the command prompt does not. It relies on you typing in certain commands.
 
 One of the first commands we’re going to learn is `dir`, which lists the contents of the folder.
 
 Type in `dir` into the command prompt window and press `Enter`. You will see a list of *files and folders* appear.
 
 We will see that using he `dir` command allows us to see the contents of the folder (directory in command line parlance), but we can’t do anything with that info with the mouse – again we need special commands.
+
+> At this point, it's probably worthwhile having a look at [absolute vs relative paths](/absolute-relative.md) if you are still unsure about folders and paths.
 
 # Command line commands
 
